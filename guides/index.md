@@ -53,9 +53,15 @@ common actions and workflows of interest and why they are useful.
 
 {% include_relative _subsections/configure-graphical-notifications.md %}
 
+<<<<<<< Updated upstream
 {% include_relative _subsections/using-smart-triggers.md %}
 
 {% include_relative _subsections/perform-garbage-collection.md %}
+=======
+{% include_relative _subsections/capture-a-thread-dump.md %}
+
+{% include_relative _subsections/capture-a-heap-dump.md %}
+>>>>>>> Stashed changes
 
 [comment]: # ## [Analyze Recordings Online](#analyze-recordings-online)
 [comment]: # TODO
